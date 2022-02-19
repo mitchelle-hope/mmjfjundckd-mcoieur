@@ -7,7 +7,7 @@ fun main(){
     interestingfact()
 }
 fun myname(name: String){
-    var name=("hello " +name)
+    var name=("hello "+name)
     println(name)
     }
 //question two
