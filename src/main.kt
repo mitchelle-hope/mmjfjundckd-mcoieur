@@ -1,13 +1,13 @@
 //question one
 fun main(){
-    myname("mitchell")
+    myname("Mitchell")
     modulus(9,2)
 
     add(6,9,7,3)
     interestingfact()
 }
 fun myname(name: String){
-    var name=("hello "+name)
+    var name=("Hello "+name)
     println(name)
     }
 //question two
